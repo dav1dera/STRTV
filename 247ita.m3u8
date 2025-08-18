@@ -1,3 +1,3 @@
 #EXTINF:-1 tvg-id="dazn1.it" tvg-name="DAZN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/774px-DAZN_1_Logo.svg.png" group-title="Sport", DAZN 1 (D)
-/proxy/m3u?url=https://daddylive.dad/stream/stream-877.php
+https://mediaflow_proxy.stremiopi.duckdns.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-877.php
 
