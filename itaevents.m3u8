@@ -32,6 +32,9 @@ https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=
 #EXTINF:-1 tvg-id="Portugal - Liga Revelação - Leixões U23 vs Famalicão U23" tvg-name="17:00 Portugal - Liga Revelação : Leixões U23 vs Famalicão U23 - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Canal 11 Portugal
 https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-540.php
 
+#EXTINF:-1 tvg-id="Norway Toppserien Women - Valerenga Oslo vs. Lillestrom SK Kvinner" tvg-name="18:00 Norway Toppserien Women : Valerenga Oslo vs. Lillestrom SK Kvinner - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TV2 Sport 1 Norway
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-27.php
+
 #EXTINF:-1 tvg-id="Lithuanian League - Siauliai vs Zalgiris Kaunas" tvg-name="18:00 Lithuanian League : Siauliai vs Zalgiris Kaunas - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport Klub 4 Croatia
 https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-104.php
 
