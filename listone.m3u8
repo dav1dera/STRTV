@@ -18,9 +18,6 @@ https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=
 #EXTINF:-1 tvg-id="boing.it" tvg-name="Boing (2)" tvg-logo="" group-title="Bambini",BOING (V) (2)
 https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://vavoo.to/vavoo-iptv/play/3022771961a341b55db1c5&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="boingplus.it" tvg-name="Boing Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Boing_Plus_logo_2020.svg/1200px-Boing_Plus_logo_2020.svg.png" group-title="Bambini",BOING PLUS (V)
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://vavoo.to/vavoo-iptv/play/3841982646469504c9c5fc&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="canale5.it" tvg-name="Canale 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/canale5-it.png" group-title="Mediaset",CANALE 5 (V)
 https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://vavoo.to/vavoo-iptv/play/15341618078b08a3db572d&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -58,13 +55,7 @@ https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=
 https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://vavoo.to/vavoo-iptv/play/17686701870faa9fea0a38&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="comedycentral.it" tvg-name="Comedy Central" tvg-logo="https://yt3.googleusercontent.com/FPzu1EWCI54fIh2j9JEp0NOzwoeugjL4sZTQCdoxoQY1U4QHyKx2L3wPSw27IueuZGchIxtKfv8=s900-c-k-c0x00ffffff-no-rj" group-title="Sky",COMEDY CENTRAL (V)
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://vavoo.to/vavoo-iptv/play/365827745096a993ffc066&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="comedycentral.it" tvg-name="Comedy Central (2)" tvg-logo="" group-title="Sky",COMEDY CENTRAL (V) (2)
 https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://vavoo.to/vavoo-iptv/play/433893159bf516cde9a97&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="crime+investigation.it" tvg-name="Crime+ Investigation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg" group-title="Discovery",CRIME+ INVESTIGATION (V)
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://vavoo.to/vavoo-iptv/play/30052277008e849440ee94&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="dazn.it" tvg-name="Dazn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/1024px-DAZN_logo.svg.png" group-title="Sport",DAZN (V)
 https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://vavoo.to/vavoo-iptv/play/2745635299ab0cc043a143&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -195,9 +186,6 @@ https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=
 #EXTINF:-1 tvg-id="mediasetinfinity+1.it" tvg-name="Mediaset Infinity+ 1" tvg-logo="https://play-lh.googleusercontent.com/2-Cl0plYUCxk8bnbeavm4ZOJ_S4Xuwmql_N3_E4OJyf7XK_YUvdNOWgzn8KD-Bur8w0" group-title="Intrattenimento;Mediaset",MEDIASET INFINITY+ 1 (V)
 https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://vavoo.to/vavoo-iptv/play/3599959739ed5ed2f1f0cd&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="mediasetinfinity+2.it" tvg-name="Mediaset Infinity+ 2" tvg-logo="https://play-lh.googleusercontent.com/2-Cl0plYUCxk8bnbeavm4ZOJ_S4Xuwmql_N3_E4OJyf7XK_YUvdNOWgzn8KD-Bur8w0" group-title="Intrattenimento;Mediaset",MEDIASET INFINITY+ 2 (V)
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://vavoo.to/vavoo-iptv/play/2436070507988d651c6548&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="mediasetinfinity+5.it" tvg-name="Mediaset Infinity+ 5" tvg-logo="https://play-lh.googleusercontent.com/2-Cl0plYUCxk8bnbeavm4ZOJ_S4Xuwmql_N3_E4OJyf7XK_YUvdNOWgzn8KD-Bur8w0" group-title="Intrattenimento;Mediaset",MEDIASET INFINITY+ 5 (V)
 https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://vavoo.to/vavoo-iptv/play/588488827b855babc9df4&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -224,9 +212,6 @@ https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=
 
 #EXTINF:-1 tvg-id="nickjr.it" tvg-name="Nick Jr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nick-jr-it.png" group-title="Bambini",NICK JR (V)
 https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://vavoo.to/vavoo-iptv/play/38095847274e645e8a065&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="nickelodeon.it" tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nickelodeon-it.png" group-title="Bambini",NICKELODEON (V)
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://vavoo.to/vavoo-iptv/play/30393892159798f5cebb7c&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="premiumcrime.it" tvg-name="Premium Crime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/premium-crime-it.png" group-title="Mediaset",PREMIUM CRIME (V)
 https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://vavoo.to/vavoo-iptv/play/444768053e397c96fc6df&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -272,9 +257,6 @@ https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=
 
 #EXTINF:-1 tvg-id="raiitalia.it" tvg-name="Rai Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Intrattenimento;Rai Tv",RAI ITALIA (V)
 https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://vavoo.to/vavoo-iptv/play/374675593c812bca5a0f0&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="raiitalia.it" tvg-name="Rai Italia (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI ITALIA (V) (2)
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://vavoo.to/vavoo-iptv/play/2944572451ecdb3159250&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="raimovie.it" tvg-name="Rai Movie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Film;Rai Tv",RAI MOVIE (V)
 https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://vavoo.to/vavoo-iptv/play/2835672487db54f8727bf9&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -323,9 +305,6 @@ https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=
 
 #EXTINF:-1 tvg-id="rakutenactionmovies.it" tvg-name="Rakuten Action Movies" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film;Rakuten",RAKUTEN ACTION MOVIES (V)
 https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://vavoo.to/vavoo-iptv/play/30648111922089ed4a29cc&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="rakutencomedymovies.it" tvg-name="Rakuten Comedy Movies" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film;Rakuten",RAKUTEN COMEDY MOVIES (V)
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://vavoo.to/vavoo-iptv/play/11093727783b90d83934c6&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="rakutendrama.it" tvg-name="Rakuten Drama" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Rakuten",RAKUTEN DRAMA (V)
 https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://vavoo.to/vavoo-iptv/play/209862439074120bb15132&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -401,9 +380,6 @@ https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=
 
 #EXTINF:-1 tvg-id="skycinemadue.it" tvg-name="Sky Cinema Due (2)" tvg-logo="" group-title="Film;Sky",SKY CINEMA DUE (V) (2)
 https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://vavoo.to/vavoo-iptv/play/2330574729acc52d969174&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skycinemadue+24.it" tvg-name="Sky Cinema Due +24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film;Sky",SKY CINEMA DUE +24 (V)
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://vavoo.to/vavoo-iptv/play/1078650168cbe5484d34ad&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skycinemafamily.it" tvg-name="Sky Cinema Family" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film;Sky",SKY CINEMA FAMILY (V)
 https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://vavoo.to/vavoo-iptv/play/41579514488d1c92affa7&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -528,10 +504,10 @@ https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=
 #EXTINF:-1 tvg-id="skysportarena.it" tvg-name="Sky Sport Arena" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (V)
 https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://vavoo.to/vavoo-iptv/play/3007400791d5bc640207c3&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skysportarena.it" tvg-name="Sky Sport Arena (2)" tvg-logo="" group-title="Sport",SKY SPORT ARENA (V) (2)
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="Sky Sport Calcio" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (V)
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://vavoo.to/vavoo-iptv/play/1665920101d5db640ce7e6&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="Sky Sport Calcio (2)" tvg-logo="" group-title="Sport",SKY SPORT CALCIO (V) (2)
 https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://vavoo.to/vavoo-iptv/play/449990998077a7691828f&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skysportf1.it" tvg-name="Sky Sport F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORT F1 (V)
@@ -542,12 +518,6 @@ https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=
 
 #EXTINF:-1 tvg-id="skysportfootball.it" tvg-name="Sky Sport Football [live During Events Only]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL [LIVE DURING EVENTS ONLY] (V)
 https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://vavoo.to/vavoo-iptv/play/198930923100c09085a1ae&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skysportgolf.it" tvg-name="Sky Sport Golf" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-golf-it.png" group-title="Sport",SKY SPORT GOLF (V)
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://vavoo.to/vavoo-iptv/play/729945219d6146597896a&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skysportgolf.it" tvg-name="Sky Sport Golf (2)" tvg-logo="" group-title="Sport",SKY SPORT GOLF (V) (2)
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://vavoo.to/vavoo-iptv/play/3897711086f5655aa4d5fb&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skysportmax.it" tvg-name="Sky Sport Max" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-max-it.png" group-title="Sport",SKY SPORT MAX (V)
 https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://vavoo.to/vavoo-iptv/play/206632691678b853b73adb&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -563,9 +533,6 @@ https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=
 
 #EXTINF:-1 tvg-id="skysportnba.it" tvg-name="Sky Sport Nba (2)" tvg-logo="" group-title="Sport",SKY SPORT NBA (V) (2)
 https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://vavoo.to/vavoo-iptv/play/3268253262aec282eb346&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skysportseriea.it" tvg-name="Sky Sport Serie A" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-serie-a-it.png" group-title="Sport",SKY SPORT SERIE A (V)
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://vavoo.to/vavoo-iptv/play/2077387085cfe0f64122dc&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skysporttennis.it" tvg-name="Sky Sport Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS (V)
 https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://vavoo.to/vavoo-iptv/play/210077178262e76f204fa6&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -585,7 +552,25 @@ https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=
 #EXTINF:-1 tvg-id="supertennis.it" tvg-name="Sky Super Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SUPER TENNIS (V)
 https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://vavoo.to/vavoo-iptv/play/55828211836e421b20575&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="skysporttennis.it" tvg-name="Sky Sport Tennis (3)" tvg-logo="" group-title="Sport",SKY SPORT TENNIS (V) (3)
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://vavoo.to/vavoo-iptv/play/78546677680f40b76841&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skysportuno.it" tvg-name="Sky Sport Uno (3)" tvg-logo="" group-title="Sport",SKY SPORT UNO (V) (3)
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://vavoo.to/vavoo-iptv/play/210669162201ec2365574&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skysportuno.it" tvg-name="Sky Sport Uno (4)" tvg-logo="" group-title="Sport",SKY SPORT UNO (V) (4)
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://vavoo.to/vavoo-iptv/play/3192996672d2c923be0346&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skysportf1.it" tvg-name="Sky Sports F1 (2)" tvg-logo="" group-title="Sport",SKY SPORTS F1 (V) (2)
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://vavoo.to/vavoo-iptv/play/22890389722acc4573933d&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="supertennis.it" tvg-name="Sky Super Tennis (2)" tvg-logo="" group-title="Sport",SKY SUPER TENNIS (V) (2)
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://vavoo.to/vavoo-iptv/play/55828211836e421b20575&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="skytg24.it" tvg-name="Sky Tg 24" tvg-logo="https://play-lh.googleusercontent.com/0RJjBW8_r64dWLAbG7kUVrkESbBr9Ukx30pDI83e5_o1obv2MTC7KSpBAIhhXvJAkXE" group-title="Notizie;Sky",SKY TG 24 (V)
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://vavoo.to/vavoo-iptv/play/33760313550167605877f1&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skytg24.it" tvg-name="Sky Tg 24 (2)" tvg-logo="" group-title="Notizie;Sky",SKY TG 24 (V) (2)
 https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://vavoo.to/vavoo-iptv/play/3180571288b987548e3fe&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyuno.it" tvg-name="Sky Uno" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Sky",SKY UNO (V)
@@ -1539,876 +1524,6 @@ https://mediaflow_proxy.self-stremiopi.org/proxy/mpd/manifest.m3u8?api_password=
 
 # Playlist generata da ThisNotBusiness
 # Playlist generata da SkyStreaming
-#EXTINF:-1 tvg-id="All-Star Pavement Midgets at Indianapolis Raceway Park - All-Star Pavement Midgets at Indianapolis Raceway Park" tvg-name="23:30 All-Star Pavement Midgets at Indianapolis Raceway Park - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", FloRacing
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-5006.php
-
-#EXTINF:-1 tvg-id="Super DIRTcar Series Fulton - Super DIRTcar Series Fulton" tvg-name="23:45 Super DIRTcar Series Fulton - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-68.php
-
-#EXTINF:-1 tvg-id="Millbridge Sprint Cars - Millbridge Sprint Cars" tvg-name="00:15 Millbridge Sprint Cars - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-69.php
-
-#EXTINF:-1 tvg-id="Millbridge Sprint Cars - Millbridge Sprint Cars" tvg-name="00:15 Millbridge Sprint Cars - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV II
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-5005.php
-
-#EXTINF:-1 tvg-id="Thunder City Speedway - Thunder City Speedway" tvg-name="00:30 Thunder City Speedway - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-5004.php
-
-#EXTINF:-1 tvg-id="Owosso Speedway - Owosso Speedway" tvg-name="01:00 Owosso Speedway - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-5007.php
-
-#EXTINF:-1 tvg-id="Buena Vista Raceway - Buena Vista Raceway" tvg-name="02:00 Buena Vista Raceway - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-5008.php
-
-#EXTINF:-1 tvg-id="Stuart International Speedway - Stuart International Speedway" tvg-name="02:00 Stuart International Speedway - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-5009.php
-
-#EXTINF:-1 tvg-id="Cottage Grove Speedway - Cottage Grove Speedway" tvg-name="02:30 Cottage Grove Speedway - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-5010.php
-
-#EXTINF:-1 tvg-id="2025 Kubota HLR Gold Cup Race of Champions at Silver Dollar Speedway - 2025 Kubota HLR Gold Cup Race of Champions at Silver Dollar Speedway" tvg-name="03:15 2025 Kubota HLR Gold Cup Race of Champions at Silver Dollar Speedway - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", FloRacing
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-76.php
-
-#EXTINF:-1 tvg-id="2025 Kubota HLR Gold Cup Race of Champions at Silver Dollar Speedway - 2025 Kubota HLR Gold Cup Race of Champions at Silver Dollar Speedway" tvg-name="03:15 2025 Kubota HLR Gold Cup Race of Champions at Silver Dollar Speedway - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", FloRacing
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-5011.php
-
-#EXTINF:-1 tvg-id="England - League Two - Notts County vs Shrewsbury Town" tvg-name="20:45 England - League Two : Notts County vs Shrewsbury Town - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sports+
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-68.php
-
-#EXTINF:-1 tvg-id="Saudi Super Cup - Al-Ahli vs Al Quadisiya" tvg-name="14:00 Saudi Super Cup : Al-Ahli vs Al Quadisiya - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Fox Soccer Plus
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-756.php
-
-#EXTINF:-1 tvg-id="Saudi Super Cup - Al-Ahli vs Al Quadisiya" tvg-name="14:00 Saudi Super Cup : Al-Ahli vs Al Quadisiya - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport TV1 Portugal
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-49.php
-
-#EXTINF:-1 tvg-id="Saudi Super Cup - Al-Ahli vs Al Quadisiya" tvg-name="14:00 Saudi Super Cup : Al-Ahli vs Al Quadisiya - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", FOX Deportes
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-643.php
-
-#EXTINF:-1 tvg-id="Saudi Super Cup - Al-Ahli vs Al Quadisiya" tvg-name="14:00 Saudi Super Cup : Al-Ahli vs Al Quadisiya - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Cosmote Sport 3 Greece
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-624.php
-
-#EXTINF:-1 tvg-id="Russia - Russian Cup - Kosmos Dolgoprudny vs 2Drots" tvg-name="16:00 Russia - Russian Cup : Kosmos Dolgoprudny vs 2Drots - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", MATCH! Tv Russia
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-127.php
-
-#EXTINF:-1 tvg-id="Russia - Russian Cup - Khimik Dzerzhinsk vs Amkar Perm" tvg-name="16:00 Russia - Russian Cup : Khimik Dzerzhinsk vs Amkar Perm - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", MATCH! Premier Russia
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-573.php
-
-#EXTINF:-1 tvg-id="Greek Cup - Panionios vs Iraklis 1908" tvg-name="16:00 Greek Cup : Panionios vs Iraklis 1908 - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Cosmote Sport 1 Greece
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-622.php
-
-#EXTINF:-1 tvg-id="Finland - Suomen Cup - KuPS vs Jaro" tvg-name="17:00 Finland - Suomen Cup : KuPS vs Jaro - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Ruutu+
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-69.php
-
-#EXTINF:-1 tvg-id="Portugal - Liga Revelação - Gil Vicente U23 vs Academico Viseu U23" tvg-name="17:00 Portugal - Liga Revelação : Gil Vicente U23 vs Academico Viseu U23 - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Canal 11 Portugal
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-540.php
-
-#EXTINF:-1 tvg-id="Portugal - Liga Revelação - Leixões U23 vs Famalicão U23" tvg-name="17:00 Portugal - Liga Revelação : Leixões U23 vs Famalicão U23 - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Canal 11 Portugal
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-540.php
-
-#EXTINF:-1 tvg-id="Norway Toppserien Women - Valerenga Oslo vs. Lillestrom SK Kvinner" tvg-name="18:00 Norway Toppserien Women : Valerenga Oslo vs. Lillestrom SK Kvinner - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TV2 Sport 1 Norway
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-27.php
-
-#EXTINF:-1 tvg-id="Lithuanian League - Siauliai vs Zalgiris Kaunas" tvg-name="18:00 Lithuanian League : Siauliai vs Zalgiris Kaunas - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport Klub 4 Croatia
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-104.php
-
-#EXTINF:-1 tvg-id="Denmark - 1. division - Hobro vs Horsens" tvg-name="18:00 Denmark - 1. division : Hobro vs Horsens - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TV3 Sport Denmark
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-809.php
-
-#EXTINF:-1 tvg-id="U19 DFB Nachwuchsliga - RB Leipzig U19 vs Viktoria Berlin U19" tvg-name="18:00 U19 DFB Nachwuchsliga : RB Leipzig U19 vs Viktoria Berlin U19 - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sport Bundesliga 1
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-558.php
-
-#EXTINF:-1 tvg-id="U19 DFB Nachwuchsliga - RB Leipzig U19 vs Viktoria Berlin U19" tvg-name="18:00 U19 DFB Nachwuchsliga : RB Leipzig U19 vs Viktoria Berlin U19 - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sport Top Event DE
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-556.php
-
-#EXTINF:-1 tvg-id="Poland - I Liga - Chrobry Głogów vs Śląsk Wrocław" tvg-name="18:00 Poland - I Liga : Chrobry Głogów vs Śląsk Wrocław - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TVP Sport Poland
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-128.php
-
-#EXTINF:-1 tvg-id="Russia - Russian Cup - Volgar Astrakhan vs Chertanovo" tvg-name="18:15 Russia - Russian Cup : Volgar Astrakhan vs Chertanovo - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", MATCH! Tv Russia
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-127.php
-
-#EXTINF:-1 tvg-id="Russia - Russian Cup - Dynamo Vologda vs Dynamo St Petersburg" tvg-name="18:15 Russia - Russian Cup : Dynamo Vologda vs Dynamo St Petersburg - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", MATCH! Premier Russia
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-573.php
-
-#EXTINF:-1 tvg-id="South Africa - DStv Premiership - Magesi vs Mamelodi Sundowns" tvg-name="19:30 South Africa - DStv Premiership : Magesi vs Mamelodi Sundowns - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport Variety 1
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-416.php
-
-#EXTINF:-1 tvg-id="South Africa - DStv Premiership - Magesi vs Mamelodi Sundowns" tvg-name="19:30 South Africa - DStv Premiership : Magesi vs Mamelodi Sundowns - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport Action
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-420.php
-
-#EXTINF:-1 tvg-id="South Africa - DStv Premiership - Orlando Pirates vs Stellenbosch" tvg-name="19:30 South Africa - DStv Premiership : Orlando Pirates vs Stellenbosch - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport PSL
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-413.php
-
-#EXTINF:-1 tvg-id="Portugal - Liga Revelação - Rio Ave U23 vs Vizela U23" tvg-name="19:00 Portugal - Liga Revelação : Rio Ave U23 vs Vizela U23 - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Canal 11 Portugal
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-540.php
-
-#EXTINF:-1 tvg-id="Argentina - Reserve League - San Lorenzo Res. vs Instituto Res." tvg-name="20:00 Argentina - Reserve League : San Lorenzo Res. vs Instituto Res. - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN3 Argentina
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-798.php
-
-#EXTINF:-1 tvg-id="Poland - I Liga - Ruch Chorzów vs Stal Rzeszów" tvg-name="20:30 Poland - I Liga : Ruch Chorzów vs Stal Rzeszów - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TVP Sport Poland
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-128.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Simulcast" tvg-name="21:00 UEFA Champions League : Simulcast - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sport Austria 1
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-559.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Simulcast" tvg-name="21:00 UEFA Champions League : Simulcast - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Cosmote Sport 1 Greece
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-622.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Bodø / Glimt vs Sturm Graz" tvg-name="21:00 UEFA Champions League : Bodø / Glimt vs Sturm Graz - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TNT Sports 5 UK
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Bodø / Glimt vs Sturm Graz" tvg-name="21:00 UEFA Champions League : Bodø / Glimt vs Sturm Graz - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TV2 Direkte Norway
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-2.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Bodø / Glimt vs Sturm Graz" tvg-name="21:00 UEFA Champions League : Bodø / Glimt vs Sturm Graz - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", DAZN Eleven 3 Portugal
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-457.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Bodø / Glimt vs Sturm Graz" tvg-name="21:00 UEFA Champions League : Bodø / Glimt vs Sturm Graz - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sport Calcio IT
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-870.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Bodø / Glimt vs Sturm Graz" tvg-name="21:00 UEFA Champions League : Bodø / Glimt vs Sturm Graz - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports 2 Malaysia
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-713.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Bodø / Glimt vs Sturm Graz" tvg-name="21:00 UEFA Champions League : Bodø / Glimt vs Sturm Graz - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Cytavision Sports 4 Cyprus
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-914.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Bodø / Glimt vs Sturm Graz" tvg-name="21:00 UEFA Champions League : Bodø / Glimt vs Sturm Graz - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Nova Sport 5 CZ
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1025.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Bodø / Glimt vs Sturm Graz" tvg-name="21:00 UEFA Champions League : Bodø / Glimt vs Sturm Graz - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", M+ Liga de Campeones 4
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-22.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Bodø / Glimt vs Sturm Graz" tvg-name="21:00 UEFA Champions League : Bodø / Glimt vs Sturm Graz - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Canal+ Foot France
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-463.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Bodø / Glimt vs Sturm Graz" tvg-name="21:00 UEFA Champions League : Bodø / Glimt vs Sturm Graz - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sportklub 1 Slovenia
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-23.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Bodø / Glimt vs Sturm Graz" tvg-name="21:00 UEFA Champions League : Bodø / Glimt vs Sturm Graz - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Fox Sports 2 Argentina
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-788.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Bodø / Glimt vs Sturm Graz" tvg-name="21:00 UEFA Champions League : Bodø / Glimt vs Sturm Graz - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Digi Sport 4 Romania
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-403.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Bodø / Glimt vs Sturm Graz" tvg-name="21:00 UEFA Champions League : Bodø / Glimt vs Sturm Graz - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Prima Sport 4 Romania
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-586.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Bodø / Glimt vs Sturm Graz" tvg-name="21:00 UEFA Champions League : Bodø / Glimt vs Sturm Graz - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Ziggo Sport 2 NL
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-398.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Bodø / Glimt vs Sturm Graz" tvg-name="21:00 UEFA Champions League : Bodø / Glimt vs Sturm Graz - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Premium 4 Serbia
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-3.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Bodø / Glimt vs Sturm Graz" tvg-name="21:00 UEFA Champions League : Bodø / Glimt vs Sturm Graz - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 4 Croatia
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-580.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Bodø / Glimt vs Sturm Graz" tvg-name="21:00 UEFA Champions League : Bodø / Glimt vs Sturm Graz - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Cosmote Sport 8 Greece
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-629.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Bodø / Glimt vs Sturm Graz" tvg-name="21:00 UEFA Champions League : Bodø / Glimt vs Sturm Graz - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA 5
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-95.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Bodø / Glimt vs Sturm Graz" tvg-name="21:00 UEFA Champions League : Bodø / Glimt vs Sturm Graz - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", 5 Stars Israel
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-147.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Basel vs København" tvg-name="21:00 UEFA Champions League : Basel vs København - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TNT Sports 3 UK
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-33.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Basel vs København" tvg-name="21:00 UEFA Champions League : Basel vs København - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SRF zwei
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-4.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Basel vs København" tvg-name="21:00 UEFA Champions League : Basel vs København - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TV3+ HD Denmark
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-819.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Basel vs København" tvg-name="21:00 UEFA Champions League : Basel vs København - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Blue Sport D 2
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-5.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Basel vs København" tvg-name="21:00 UEFA Champions League : Basel vs København - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sport Austria 3
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-6.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Basel vs København" tvg-name="21:00 UEFA Champions League : Basel vs København - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", DAZN Eleven 2 Portugal
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-456.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Basel vs København" tvg-name="21:00 UEFA Champions League : Basel vs København - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", DAZN1 DE
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-426.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Basel vs København" tvg-name="21:00 UEFA Champions League : Basel vs København - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", M+ Liga de Campeones 2
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-24.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Basel vs København" tvg-name="21:00 UEFA Champions League : Basel vs København - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Prima Sport 2 Romania
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-584.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Basel vs København" tvg-name="21:00 UEFA Champions League : Basel vs København - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sportklub 3 Slovenia
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-25.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Basel vs København" tvg-name="21:00 UEFA Champions League : Basel vs København - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Space Brazil
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-26.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Basel vs København" tvg-name="21:00 UEFA Champions League : Basel vs København - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TUDN USA
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-66.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Basel vs København" tvg-name="21:00 UEFA Champions League : Basel vs København - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sport 252 Italy
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-872.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Basel vs København" tvg-name="21:00 UEFA Champions League : Basel vs København - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Canal+ Sport 360 France
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-464.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Basel vs København" tvg-name="21:00 UEFA Champions League : Basel vs København - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Viaplay Sports Sweden
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-55.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Basel vs København" tvg-name="21:00 UEFA Champions League : Basel vs København - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Digi Sport 2 Romania
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-401.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Basel vs København" tvg-name="21:00 UEFA Champions League : Basel vs København - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Cytavision Sports 6 Cyprus
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-916.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Basel vs København" tvg-name="21:00 UEFA Champions League : Basel vs København - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Ziggo Sport 4 NL
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-396.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Basel vs København" tvg-name="21:00 UEFA Champions League : Basel vs København - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Premium 2 Serbia
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-135.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Basel vs København" tvg-name="21:00 UEFA Champions League : Basel vs København - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Cosmote Sport 7 Greece
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-628.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Basel vs København" tvg-name="21:00 UEFA Champions League : Basel vs København - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 3 Croatia
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-434.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Basel vs København" tvg-name="21:00 UEFA Champions League : Basel vs København - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA 3
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-93.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Basel vs København" tvg-name="21:00 UEFA Champions League : Basel vs København - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", 5 Live Israel
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-146.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Celtic vs Kairat" tvg-name="21:00 UEFA Champions League : Celtic vs Kairat - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TNT Sports 1 UK
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-31.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Celtic vs Kairat" tvg-name="21:00 UEFA Champions League : Celtic vs Kairat - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Qazsport
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-7.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Celtic vs Kairat" tvg-name="21:00 UEFA Champions League : Celtic vs Kairat - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sport Austria 4
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-8.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Celtic vs Kairat" tvg-name="21:00 UEFA Champions League : Celtic vs Kairat - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", RTE 2 Ireland
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-365.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Celtic vs Kairat" tvg-name="21:00 UEFA Champions League : Celtic vs Kairat - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", DAZN Eleven 1 Portugal
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-455.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Celtic vs Kairat" tvg-name="21:00 UEFA Champions League : Celtic vs Kairat - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", M+ Liga de Campeones 3
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-59.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Celtic vs Kairat" tvg-name="21:00 UEFA Champions League : Celtic vs Kairat - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sport 251 Italy
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-871.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Celtic vs Kairat" tvg-name="21:00 UEFA Champions League : Celtic vs Kairat - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Canal+ Sport France
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-122.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Celtic vs Kairat" tvg-name="21:00 UEFA Champions League : Celtic vs Kairat - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Premier Sports 1 Ireland
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-771.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Celtic vs Kairat" tvg-name="21:00 UEFA Champions League : Celtic vs Kairat - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Digi Sport 3 Romania
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-402.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Celtic vs Kairat" tvg-name="21:00 UEFA Champions League : Celtic vs Kairat - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Cytavision Sports 7 Cyprus
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-917.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Celtic vs Kairat" tvg-name="21:00 UEFA Champions League : Celtic vs Kairat - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Blue Sport 3 Live
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-9.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Celtic vs Kairat" tvg-name="21:00 UEFA Champions League : Celtic vs Kairat - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Nova Sport 4 CZ
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1024.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Celtic vs Kairat" tvg-name="21:00 UEFA Champions League : Celtic vs Kairat - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Ziggo Sport 3 NL
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-919.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Celtic vs Kairat" tvg-name="21:00 UEFA Champions League : Celtic vs Kairat - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TV3 Max Denmark
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-223.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Celtic vs Kairat" tvg-name="21:00 UEFA Champions League : Celtic vs Kairat - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports 3 Malaysia
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-714.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Celtic vs Kairat" tvg-name="21:00 UEFA Champions League : Celtic vs Kairat - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Premium 3 Serbia
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-139.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Celtic vs Kairat" tvg-name="21:00 UEFA Champions League : Celtic vs Kairat - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Cosmote Sport 3 Greece
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-624.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Celtic vs Kairat" tvg-name="21:00 UEFA Champions League : Celtic vs Kairat - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN2 Argentina
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-150.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Celtic vs Kairat" tvg-name="21:00 UEFA Champions League : Celtic vs Kairat - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport Premier League
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-414.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Celtic vs Kairat" tvg-name="21:00 UEFA Champions League : Celtic vs Kairat - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA 4
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-94.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Celtic vs Kairat" tvg-name="21:00 UEFA Champions League : Celtic vs Kairat - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA English 1
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-61.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Celtic vs Kairat" tvg-name="21:00 UEFA Champions League : Celtic vs Kairat - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", 5 Sport Israel
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-144.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Fenerbahçe vs Benfica" tvg-name="21:00 UEFA Champions League : Fenerbahçe vs Benfica - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TNT Sports 2 UK
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-32.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Fenerbahçe vs Benfica" tvg-name="21:00 UEFA Champions League : Fenerbahçe vs Benfica - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sport Austria 2
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-10.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Fenerbahçe vs Benfica" tvg-name="21:00 UEFA Champions League : Fenerbahçe vs Benfica - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TRT 1 Turkey
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-11.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Fenerbahçe vs Benfica" tvg-name="21:00 UEFA Champions League : Fenerbahçe vs Benfica - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport TV5 Portugal
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-290.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Fenerbahçe vs Benfica" tvg-name="21:00 UEFA Champions League : Fenerbahçe vs Benfica - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Canal+ Sport 2 Afrique
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-487.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Fenerbahçe vs Benfica" tvg-name="21:00 UEFA Champions League : Fenerbahçe vs Benfica - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", M+ Liga de Campeones
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-435.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Fenerbahçe vs Benfica" tvg-name="21:00 UEFA Champions League : Fenerbahçe vs Benfica - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", DAZN2 DE
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-427.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Fenerbahçe vs Benfica" tvg-name="21:00 UEFA Champions League : Fenerbahçe vs Benfica - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Canal+ France
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-121.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Fenerbahçe vs Benfica" tvg-name="21:00 UEFA Champions League : Fenerbahçe vs Benfica - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Digi Sport 1 Romania
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-400.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Fenerbahçe vs Benfica" tvg-name="21:00 UEFA Champions League : Fenerbahçe vs Benfica - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Cytavision Sports 3 Cyprus
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-913.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Fenerbahçe vs Benfica" tvg-name="21:00 UEFA Champions League : Fenerbahçe vs Benfica - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Club RTL Belgium
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-12.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Fenerbahçe vs Benfica" tvg-name="21:00 UEFA Champions League : Fenerbahçe vs Benfica - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Ziggo Sport 1 NL
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-393.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Fenerbahçe vs Benfica" tvg-name="21:00 UEFA Champions League : Fenerbahçe vs Benfica - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TV2 Sport Norway
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-13.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Fenerbahçe vs Benfica" tvg-name="21:00 UEFA Champions League : Fenerbahçe vs Benfica - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Cosmote Sport 2 Greece
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-623.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Fenerbahçe vs Benfica" tvg-name="21:00 UEFA Champions League : Fenerbahçe vs Benfica - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Nova Sport 3 CZ
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1023.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Fenerbahçe vs Benfica" tvg-name="21:00 UEFA Champions League : Fenerbahçe vs Benfica - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Prima Sport 1 Romania
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-583.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Fenerbahçe vs Benfica" tvg-name="21:00 UEFA Champions League : Fenerbahçe vs Benfica - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TNT Brasil
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-87.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Fenerbahçe vs Benfica" tvg-name="21:00 UEFA Champions League : Fenerbahçe vs Benfica - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Fox Sports Argentina
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-787.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Fenerbahçe vs Benfica" tvg-name="21:00 UEFA Champions League : Fenerbahçe vs Benfica - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Blue Sport 2 Live
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-14.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Fenerbahçe vs Benfica" tvg-name="21:00 UEFA Champions League : Fenerbahçe vs Benfica - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports 1 Malaysia
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-712.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Fenerbahçe vs Benfica" tvg-name="21:00 UEFA Champions League : Fenerbahçe vs Benfica - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Kanal A Slovenia
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-15.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Fenerbahçe vs Benfica" tvg-name="21:00 UEFA Champions League : Fenerbahçe vs Benfica - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", HRT 2 Croatia
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-16.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Fenerbahçe vs Benfica" tvg-name="21:00 UEFA Champions League : Fenerbahçe vs Benfica - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 1 Croatia
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-432.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Fenerbahçe vs Benfica" tvg-name="21:00 UEFA Champions League : Fenerbahçe vs Benfica - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Premium 1 Serbia
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-134.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Fenerbahçe vs Benfica" tvg-name="21:00 UEFA Champions League : Fenerbahçe vs Benfica - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", bTV Action Bulgaria
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-481.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Fenerbahçe vs Benfica" tvg-name="21:00 UEFA Champions League : Fenerbahçe vs Benfica - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport Football
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-56.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Fenerbahçe vs Benfica" tvg-name="21:00 UEFA Champions League : Fenerbahçe vs Benfica - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport MaXimo 1
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-572.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Fenerbahçe vs Benfica" tvg-name="21:00 UEFA Champions League : Fenerbahçe vs Benfica - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA 1
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-91.php
-
-#EXTINF:-1 tvg-id="UEFA Champions League - Fenerbahçe vs Benfica" tvg-name="21:00 UEFA Champions League : Fenerbahçe vs Benfica - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", 5 Plus Israel
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-145.php
-
-#EXTINF:-1 tvg-id="England - League One - Bolton Wanderers vs Reading" tvg-name="21:00 England - League One : Bolton Wanderers vs Reading - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sports Football UK
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-35.php
-
-#EXTINF:-1 tvg-id="England - League One - Bolton Wanderers vs Reading" tvg-name="21:00 England - League One : Bolton Wanderers vs Reading - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sports Main Event UK
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-38.php
-
-#EXTINF:-1 tvg-id="England - League One - Bolton Wanderers vs Reading" tvg-name="21:00 England - League One : Bolton Wanderers vs Reading - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", CBS Sports Network USA
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-308.php
-
-#EXTINF:-1 tvg-id="England - League One - Bolton Wanderers vs Reading" tvg-name="21:00 England - League One : Bolton Wanderers vs Reading - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport TV1 Portugal
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-49.php
-
-#EXTINF:-1 tvg-id="England - League One - Bolton Wanderers vs Reading" tvg-name="21:00 England - League One : Bolton Wanderers vs Reading - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Astro Football
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-124.php
-
-#EXTINF:-1 tvg-id="England - League One - Bolton Wanderers vs Reading" tvg-name="21:00 England - League One : Bolton Wanderers vs Reading - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 1 Serbia
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-429.php
-
-#EXTINF:-1 tvg-id="England - League One - Bolton Wanderers vs Reading" tvg-name="21:00 England - League One : Bolton Wanderers vs Reading - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Cosmote Sport 9 Greece
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-630.php
-
-#EXTINF:-1 tvg-id="England - League One - Bolton Wanderers vs Reading" tvg-name="21:00 England - League One : Bolton Wanderers vs Reading - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Diema Sport 2 Bulgaria
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-466.php
-
-#EXTINF:-1 tvg-id="England - League One - Bolton Wanderers vs Reading" tvg-name="21:00 England - League One : Bolton Wanderers vs Reading - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA 2
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-92.php
-
-#EXTINF:-1 tvg-id="England - League One - Bolton Wanderers vs Reading" tvg-name="21:00 England - League One : Bolton Wanderers vs Reading - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 2 Israel
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-141.php
-
-#EXTINF:-1 tvg-id="Copa Libertadores - Estudiantes vs Cerro Porteño" tvg-name="00:00 Copa Libertadores : Estudiantes vs Cerro Porteño - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN SPORTS USA
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-425.php
-
-#EXTINF:-1 tvg-id="Copa Libertadores - Estudiantes vs Cerro Porteño" tvg-name="00:00 Copa Libertadores : Estudiantes vs Cerro Porteño - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN SPORTS en Español
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-372.php
-
-#EXTINF:-1 tvg-id="Copa Libertadores - Estudiantes vs Cerro Porteño" tvg-name="00:00 Copa Libertadores : Estudiantes vs Cerro Porteño - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport TV1 Portugal
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-49.php
-
-#EXTINF:-1 tvg-id="Copa Libertadores - Estudiantes vs Cerro Porteño" tvg-name="00:00 Copa Libertadores : Estudiantes vs Cerro Porteño - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN Mexico
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-925.php
-
-#EXTINF:-1 tvg-id="Copa Libertadores - Estudiantes vs Cerro Porteño" tvg-name="00:00 Copa Libertadores : Estudiantes vs Cerro Porteño - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 1 Croatia
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-432.php
-
-#EXTINF:-1 tvg-id="Copa Libertadores - Estudiantes vs Cerro Porteño" tvg-name="00:00 Copa Libertadores : Estudiantes vs Cerro Porteño - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Fox Sports Argentina
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-787.php
-
-#EXTINF:-1 tvg-id="Copa Libertadores - Estudiantes vs Cerro Porteño" tvg-name="00:00 Copa Libertadores : Estudiantes vs Cerro Porteño - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Premium 1 Serbia
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-134.php
-
-#EXTINF:-1 tvg-id="Copa Libertadores - Estudiantes vs Cerro Porteño" tvg-name="00:00 Copa Libertadores : Estudiantes vs Cerro Porteño - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN4 Brazil
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-85.php
-
-#EXTINF:-1 tvg-id="Copa Libertadores - Estudiantes vs Cerro Porteño" tvg-name="00:00 Copa Libertadores : Estudiantes vs Cerro Porteño - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA 3
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-93.php
-
-#EXTINF:-1 tvg-id="Copa Libertadores - Estudiantes vs Cerro Porteño" tvg-name="00:00 Copa Libertadores : Estudiantes vs Cerro Porteño - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA English 1
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-61.php
-
-#EXTINF:-1 tvg-id="Copa Libertadores - Estudiantes vs Cerro Porteño" tvg-name="00:00 Copa Libertadores : Estudiantes vs Cerro Porteño - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 4 Israel
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-143.php
-
-#EXTINF:-1 tvg-id="Brazil - Brasileirão - Juventude vs Vasco da Gama" tvg-name="00:00 Brazil - Brasileirão : Juventude vs Vasco da Gama - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Premiere BR
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-88.php
-
-#EXTINF:-1 tvg-id="Copa Sudamericana - Cienciano vs Bolívar" tvg-name="00:00 Copa Sudamericana : Cienciano vs Bolívar - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", MAX Sport 4 Bulgaria
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-475.php
-
-#EXTINF:-1 tvg-id="Copa Sudamericana - Cienciano vs Bolívar" tvg-name="00:00 Copa Sudamericana : Cienciano vs Bolívar - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN2 Argentina
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-150.php
-
-#EXTINF:-1 tvg-id="Copa Sudamericana - Cienciano vs Bolívar" tvg-name="00:00 Copa Sudamericana : Cienciano vs Bolívar - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Premium 2 Serbia
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-135.php
-
-#EXTINF:-1 tvg-id="Copa Sudamericana - Cienciano vs Bolívar" tvg-name="00:00 Copa Sudamericana : Cienciano vs Bolívar - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA 4
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-94.php
-
-#EXTINF:-1 tvg-id="Copa Sudamericana - Cienciano vs Bolívar" tvg-name="00:00 Copa Sudamericana : Cienciano vs Bolívar - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 1 Israel
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-140.php
-
-#EXTINF:-1 tvg-id="CONCACAF W Champions Cup - NJ/NY Gotham FC vs Monterrey" tvg-name="01:00 CONCACAF W Champions Cup : NJ/NY Gotham FC vs Monterrey - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", CBS Sports Network USA
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-308.php
-
-#EXTINF:-1 tvg-id="CONCACAF W Champions Cup - NJ/NY Gotham FC vs Monterrey" tvg-name="01:00 CONCACAF W Champions Cup : NJ/NY Gotham FC vs Monterrey - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN Deportes
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-375.php
-
-#EXTINF:-1 tvg-id="Leagues Cup - Inter Miami vs Tigres UANL" tvg-name="02:00 Leagues Cup : Inter Miami vs Tigres UANL - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Fox Sports 1 USA
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-39.php
-
-#EXTINF:-1 tvg-id="Leagues Cup - Inter Miami vs Tigres UANL" tvg-name="02:00 Leagues Cup : Inter Miami vs Tigres UANL - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TSN5
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-115.php
-
-#EXTINF:-1 tvg-id="Leagues Cup - Inter Miami vs Tigres UANL" tvg-name="02:00 Leagues Cup : Inter Miami vs Tigres UANL - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TUDN USA
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-66.php
-
-#EXTINF:-1 tvg-id="Leagues Cup - Inter Miami vs Tigres UANL" tvg-name="02:00 Leagues Cup : Inter Miami vs Tigres UANL - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", UniMás
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-133.php
-
-#EXTINF:-1 tvg-id="CONCACAF Caribbean Cup - Universidad O&M vs Central" tvg-name="02:00 CONCACAF Caribbean Cup : Universidad O&M vs Central - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Fox Soccer Plus
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-756.php
-
-#EXTINF:-1 tvg-id="Copa Libertadores - Internacional vs Flamengo" tvg-name="02:30 Copa Libertadores : Internacional vs Flamengo - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN SPORTS USA
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-425.php
-
-#EXTINF:-1 tvg-id="Copa Libertadores - Internacional vs Flamengo" tvg-name="02:30 Copa Libertadores : Internacional vs Flamengo - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN SPORTS en Español
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-372.php
-
-#EXTINF:-1 tvg-id="Copa Libertadores - Internacional vs Flamengo" tvg-name="02:30 Copa Libertadores : Internacional vs Flamengo - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SPORT1+ DE
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-640.php
-
-#EXTINF:-1 tvg-id="Copa Libertadores - Internacional vs Flamengo" tvg-name="02:30 Copa Libertadores : Internacional vs Flamengo - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN Brazil
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-81.php
-
-#EXTINF:-1 tvg-id="Copa Libertadores - Internacional vs Flamengo" tvg-name="02:30 Copa Libertadores : Internacional vs Flamengo - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport TV1 Portugal
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-49.php
-
-#EXTINF:-1 tvg-id="Copa Libertadores - Internacional vs Flamengo" tvg-name="02:30 Copa Libertadores : Internacional vs Flamengo - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN 1 NL
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-379.php
-
-#EXTINF:-1 tvg-id="Copa Libertadores - Internacional vs Flamengo" tvg-name="02:30 Copa Libertadores : Internacional vs Flamengo - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Fox Sports Argentina
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-787.php
-
-#EXTINF:-1 tvg-id="Copa Libertadores - Internacional vs Flamengo" tvg-name="02:30 Copa Libertadores : Internacional vs Flamengo - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Premium 1 Serbia
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-134.php
-
-#EXTINF:-1 tvg-id="Copa Libertadores - Internacional vs Flamengo" tvg-name="02:30 Copa Libertadores : Internacional vs Flamengo - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Cosmote Sport 3 Greece
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-624.php
-
-#EXTINF:-1 tvg-id="Copa Libertadores - Internacional vs Flamengo" tvg-name="02:30 Copa Libertadores : Internacional vs Flamengo - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 1 Croatia
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-432.php
-
-#EXTINF:-1 tvg-id="Copa Libertadores - Internacional vs Flamengo" tvg-name="02:30 Copa Libertadores : Internacional vs Flamengo - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", MAX Sport 4 Bulgaria
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-475.php
-
-#EXTINF:-1 tvg-id="Copa Libertadores - Internacional vs Flamengo" tvg-name="02:30 Copa Libertadores : Internacional vs Flamengo - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA 5
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-95.php
-
-#EXTINF:-1 tvg-id="Copa Libertadores - Internacional vs Flamengo" tvg-name="02:30 Copa Libertadores : Internacional vs Flamengo - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA English 1
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-61.php
-
-#EXTINF:-1 tvg-id="Copa Libertadores - Internacional vs Flamengo" tvg-name="02:30 Copa Libertadores : Internacional vs Flamengo - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 2 Israel
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-141.php
-
-#EXTINF:-1 tvg-id="Brazil - Copa do Nordeste - Bahia vs Ceará" tvg-name="02:30 Brazil - Copa do Nordeste : Bahia vs Ceará - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Premier Brasil
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-88.php
-
-#EXTINF:-1 tvg-id="Brazil - Copa do Nordeste - Bahia vs Ceará" tvg-name="02:30 Brazil - Copa do Nordeste : Bahia vs Ceará - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN2 Brazil
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-82.php
-
-#EXTINF:-1 tvg-id="Brazil - Copa do Nordeste - CSA vs Confiança" tvg-name="02:30 Brazil - Copa do Nordeste : CSA vs Confiança - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Premier 2 Brasil
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-11.php
-
-#EXTINF:-1 tvg-id="Colombia - Primera A - Millonarios vs Unión Magdalena" tvg-name="02:30 Colombia - Primera A : Millonarios vs Unión Magdalena - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Win+ Futbol Colombia
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-392.php
-
-#EXTINF:-1 tvg-id="Copa Sudamericana - Independiente vs Universidad Chile" tvg-name="02:30 Copa Sudamericana : Independiente vs Universidad Chile - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport TV2 Portugal
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-74.php
-
-#EXTINF:-1 tvg-id="Copa Sudamericana - Independiente vs Universidad Chile" tvg-name="02:30 Copa Sudamericana : Independiente vs Universidad Chile - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Premium 2 Serbia
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-135.php
-
-#EXTINF:-1 tvg-id="Copa Sudamericana - Independiente vs Universidad Chile" tvg-name="02:30 Copa Sudamericana : Independiente vs Universidad Chile - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN4 Brazil
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-85.php
-
-#EXTINF:-1 tvg-id="Copa Sudamericana - Independiente vs Universidad Chile" tvg-name="02:30 Copa Sudamericana : Independiente vs Universidad Chile - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA 3
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-93.php
-
-#EXTINF:-1 tvg-id="Copa Sudamericana - Independiente vs Universidad Chile" tvg-name="02:30 Copa Sudamericana : Independiente vs Universidad Chile - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA English 2
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-90.php
-
-#EXTINF:-1 tvg-id="Copa Sudamericana - Independiente vs Universidad Chile" tvg-name="02:30 Copa Sudamericana : Independiente vs Universidad Chile - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 1 Israel
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-140.php
-
-#EXTINF:-1 tvg-id="Copa Sudamericana - Universidad Católica vs Alianza Lima" tvg-name="02:30 Copa Sudamericana : Universidad Católica vs Alianza Lima - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN2 Argentina
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-150.php
-
-#EXTINF:-1 tvg-id="Copa Sudamericana - Universidad Católica vs Alianza Lima" tvg-name="02:30 Copa Sudamericana : Universidad Católica vs Alianza Lima - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA 4
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-94.php
-
-#EXTINF:-1 tvg-id="Copa Sudamericana - Universidad Católica vs Alianza Lima" tvg-name="02:30 Copa Sudamericana : Universidad Católica vs Alianza Lima - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 4 Israel
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-143.php
-
-#EXTINF:-1 tvg-id="Leagues Cup - Toluca vs Orlando City SC" tvg-name="03:00 Leagues Cup : Toluca vs Orlando City SC - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", MLS Season Pass
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-55.php
-
-#EXTINF:-1 tvg-id="Leagues Cup - Toluca vs Orlando City SC" tvg-name="03:00 Leagues Cup : Toluca vs Orlando City SC - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TUDN MX
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-935.php
-
-#EXTINF:-1 tvg-id="CONCACAF Central American Cup - Cartaginés vs Hankook Verdes" tvg-name="04:00 CONCACAF Central American Cup : Cartaginés vs Hankook Verdes - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Fox Soccer Plus
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-756.php
-
-#EXTINF:-1 tvg-id="CONCACAF Central American Cup - LD Alajuelense vs América" tvg-name="04:00 CONCACAF Central American Cup : LD Alajuelense vs América - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN Deportes
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-375.php
-
-#EXTINF:-1 tvg-id="CONCACAF Central American Cup - LD Alajuelense vs América" tvg-name="04:00 CONCACAF Central American Cup : LD Alajuelense vs América - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN2 Mexico
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-926.php
-
-#EXTINF:-1 tvg-id="Leagues Cup - Seattle Sounders FC vs Puebla" tvg-name="05:00 Leagues Cup : Seattle Sounders FC vs Puebla - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Fox Sports 1 USA
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-39.php
-
-#EXTINF:-1 tvg-id="Leagues Cup - Seattle Sounders FC vs Puebla" tvg-name="05:00 Leagues Cup : Seattle Sounders FC vs Puebla - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TSN5
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-115.php
-
-#EXTINF:-1 tvg-id="Leagues Cup - Seattle Sounders FC vs Puebla" tvg-name="05:00 Leagues Cup : Seattle Sounders FC vs Puebla - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TUDN USA
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-66.php
-
-#EXTINF:-1 tvg-id="Leagues Cup - Seattle Sounders FC vs Puebla" tvg-name="05:00 Leagues Cup : Seattle Sounders FC vs Puebla - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", UniMás
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-133.php
-
-#EXTINF:-1 tvg-id="Leagues Cup - LA Galaxy vs Pachuca" tvg-name="05:45 Leagues Cup : LA Galaxy vs Pachuca - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", MLS Season Pass
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-59.php
-
-#EXTINF:-1 tvg-id="Mixed Doubles - Arthur Ashe - Mixed Doubles - Arthur Ashe" tvg-name="17:00 Mixed Doubles - Arthur Ashe - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Us Open - Qualifying", Tennis Stream
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1505.php
-
-#EXTINF:-1 tvg-id="Stadium 17 - Stadium 17" tvg-name="17:00 Stadium 17 - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Us Open - Qualifying", Tennis Stream
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1517.php
-
-#EXTINF:-1 tvg-id="Court 5 - Court 5" tvg-name="17:00 Court 5 - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Us Open - Qualifying", Tennis Stream
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1521.php
-
-#EXTINF:-1 tvg-id="Court 4 - Court 4" tvg-name="17:00 Court 4 - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Us Open - Qualifying", Tennis Stream
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1522.php
-
-#EXTINF:-1 tvg-id="Court 6 - Court 6" tvg-name="17:00 Court 6 - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Us Open - Qualifying", Tennis Stream
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1525.php
-
-#EXTINF:-1 tvg-id="Court 7 - Court 7" tvg-name="17:00 Court 7 - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Us Open - Qualifying", Tennis Stream
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1526.php
-
-#EXTINF:-1 tvg-id="Court 8 - Court 8" tvg-name="17:00 Court 8 - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Us Open - Qualifying", Tennis Stream
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1508.php
-
-#EXTINF:-1 tvg-id="Court 9 - Court 9" tvg-name="17:00 Court 9 - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Us Open - Qualifying", Tennis Stream
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1509.php
-
-#EXTINF:-1 tvg-id="Court 10 - Court 10" tvg-name="17:00 Court 10 - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Us Open - Qualifying", Tennis Stream
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1510.php
-
-#EXTINF:-1 tvg-id="Court 11 - Court 11" tvg-name="17:00 Court 11 - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Us Open - Qualifying", Tennis Stream
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1511.php
-
-#EXTINF:-1 tvg-id="Court 12 - Court 12" tvg-name="17:00 Court 12 - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Us Open - Qualifying", Tennis Stream
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1512.php
-
-#EXTINF:-1 tvg-id="Court 13 - Court 13" tvg-name="17:00 Court 13 - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Us Open - Qualifying", Tennis Stream
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1513.php
-
-#EXTINF:-1 tvg-id="Court 14 - Court 14" tvg-name="17:00 Court 14 - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Us Open - Qualifying", Tennis Stream
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1514.php
-
-#EXTINF:-1 tvg-id="Court 15 - Court 15" tvg-name="17:00 Court 15 - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Us Open - Qualifying", Tennis Stream
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1518.php
-
-#EXTINF:-1 tvg-id="Court 16 - Court 16" tvg-name="17:00 Court 16 - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Us Open - Qualifying", Tennis Stream
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1519.php
-
-#EXTINF:-1 tvg-id="ATP - WINSTON SALEM - Kecmanovic M. vs Darderi L." tvg-name="20:00 ATP - WINSTON SALEM : Kecmanovic M. vs Darderi L. - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Winston Salem", Tennis Stream
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1551.php
-
-#EXTINF:-1 tvg-id="ATP - WINSTON SALEM - Majchrzak K. vs Korda S." tvg-name="20:00 ATP - WINSTON SALEM : Majchrzak K. vs Korda S. - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Winston Salem", Tennis Stream
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1507.php
-
-#EXTINF:-1 tvg-id="ATP - WINSTON SALEM - Bautista-Agut R. vs Fucsovics M." tvg-name="21:30 ATP - WINSTON SALEM : Bautista-Agut R. vs Fucsovics M. - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Winston Salem", Tennis Stream
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1552.php
-
-#EXTINF:-1 tvg-id="ATP - WINSTON SALEM - Mpetshi Perricard G. vs Muller A." tvg-name="21:30 ATP - WINSTON SALEM : Mpetshi Perricard G. vs Muller A. - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Winston Salem", Tennis Stream
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1553.php
-
-#EXTINF:-1 tvg-id="ATP - WINSTON SALEM - Diallo G. vs Medjedovic H." tvg-name="22:00 ATP - WINSTON SALEM : Diallo G. vs Medjedovic H. - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Winston Salem", Tennis Stream
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1507.php
-
-#EXTINF:-1 tvg-id="ATP - WINSTON SALEM - Sonego L. vs Munar J." tvg-name="23:00 ATP - WINSTON SALEM : Sonego L. vs Munar J. - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Winston Salem", Tennis Stream
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1554.php
-
-#EXTINF:-1 tvg-id="ATP - WINSTON SALEM - Bu Y. vs Navone M." tvg-name="00:30 ATP - WINSTON SALEM : Bu Y. vs Navone M. - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Winston Salem", Tennis Stream
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1507.php
-
-#EXTINF:-1 tvg-id="ATP - WINSTON SALEM - Baez S. vs Van De Zandschulp B." tvg-name="02:00 ATP - WINSTON SALEM : Baez S. vs Van De Zandschulp B. - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Winston Salem", Tennis Stream
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1507.php
-
-#EXTINF:-1 tvg-id="WTA - CLEVELAND - Cirstea S. vs Teichmann J." tvg-name="17:00 WTA - CLEVELAND : Cirstea S. vs Teichmann J. - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Cleveland", Tennis Stream
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1501.php
-
-#EXTINF:-1 tvg-id="WTA - CLEVELAND - Gibson T. vs Wang Xin." tvg-name="18:30 WTA - CLEVELAND : Gibson T. vs Wang Xin. - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Cleveland", Tennis Stream
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1502.php
-
-#EXTINF:-1 tvg-id="WTA - CLEVELAND - Li A. vs Jovic I." tvg-name="18:30 WTA - CLEVELAND : Li A. vs Jovic I. - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Cleveland", Tennis Stream
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1501.php
-
-#EXTINF:-1 tvg-id="WTA - CLEVELAND - Sierra S. vs Jacquemot E." tvg-name="18:30 WTA - CLEVELAND : Sierra S. vs Jacquemot E. - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Cleveland", Tennis Stream
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1503.php
-
-#EXTINF:-1 tvg-id="WTA - CLEVELAND - Boulter K. vs Golubic V." tvg-name="20:00 WTA - CLEVELAND : Boulter K. vs Golubic V. - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Cleveland", Tennis Stream
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1501.php
-
-#EXTINF:-1 tvg-id="WTA - CLEVELAND - Samsonova L. vs Wang Y." tvg-name="00:30 WTA - CLEVELAND : Samsonova L. vs Wang Y. - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Cleveland", Tennis Stream
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1501.php
-
-#EXTINF:-1 tvg-id="WTA - MONTERREY - Shnaider D. vs Rakhimova K." tvg-name="23:00 WTA - MONTERREY : Shnaider D. vs Rakhimova K. - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Monterrey", Tennis Stream
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1504.php
-
-#EXTINF:-1 tvg-id="WTA - MONTERREY - Vekic D. vs Mertens E." tvg-name="23:00 WTA - MONTERREY : Vekic D. vs Mertens E. - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Monterrey", Tennis Stream
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1502.php
-
-#EXTINF:-1 tvg-id="WTA - MONTERREY - Ruzic A. vs Cocciaretto E." tvg-name="00:30 WTA - MONTERREY : Ruzic A. vs Cocciaretto E. - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Monterrey", Tennis Stream
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1503.php
-
-#EXTINF:-1 tvg-id="WTA - MONTERREY - Sramkova R. vs Fernandez L." tvg-name="00:30 WTA - MONTERREY : Sramkova R. vs Fernandez L. - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Monterrey", Tennis Stream
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1502.php
-
-#EXTINF:-1 tvg-id="WTA - MONTERREY - Bouzkova M. vs Haddad Maia B." tvg-name="01:00 WTA - MONTERREY : Bouzkova M. vs Haddad Maia B. - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Monterrey", Tennis Stream
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1504.php
-
-#EXTINF:-1 tvg-id="WTA - MONTERREY - Noskova L. vs Maria T." tvg-name="02:00 WTA - MONTERREY : Noskova L. vs Maria T. - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Monterrey", Tennis Stream
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1502.php
-
-#EXTINF:-1 tvg-id="WTA - MONTERREY - Navarro E. vs Parks A." tvg-name="03:30 WTA - MONTERREY : Navarro E. vs Parks A. - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Monterrey", Tennis Stream
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1504.php
-
-#EXTINF:-1 tvg-id="WTA - MONTERREY - Tomljanovic A. vs Alexandrova E." tvg-name="05:00 WTA - MONTERREY : Tomljanovic A. vs Alexandrova E. - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Monterrey", Tennis Stream
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1504.php
-
-#EXTINF:-1 tvg-id="Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds - Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds" tvg-name="17:00 Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-40.php
-
-#EXTINF:-1 tvg-id="Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds - Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds" tvg-name="17:00 Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports Tennis UK
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-46.php
-
-#EXTINF:-1 tvg-id="Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds - Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds" tvg-name="17:00 Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN3
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-113.php
-
-#EXTINF:-1 tvg-id="Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds - Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds" tvg-name="17:00 Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TV4 Tennis
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-701.php
-
-#EXTINF:-1 tvg-id="Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds - Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds" tvg-name="17:00 Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports Tennis DE
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-884.php
-
-#EXTINF:-1 tvg-id="Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds - Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds" tvg-name="17:00 Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sportsnet One
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-411.php
-
-#EXTINF:-1 tvg-id="Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds - Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds" tvg-name="17:00 Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sportsnet Ontario
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-406.php
-
-#EXTINF:-1 tvg-id="Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds - Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds" tvg-name="17:00 Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sportsnet West
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-407.php
-
-#EXTINF:-1 tvg-id="Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds - Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds" tvg-name="17:00 Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sportsnet East
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-408.php
-
-#EXTINF:-1 tvg-id="Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds - Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds" tvg-name="17:00 Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TVA Sports
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-833.php
-
-#EXTINF:-1 tvg-id="Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds - Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds" tvg-name="17:00 Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Polsat Sport 1 Poland
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-47.php
-
-#EXTINF:-1 tvg-id="Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds - Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds" tvg-name="17:00 Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport TV2 Portugal
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-74.php
-
-#EXTINF:-1 tvg-id="Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds - Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds" tvg-name="17:00 Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 1 NL
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-393.php
-
-#EXTINF:-1 tvg-id="Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds - Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds" tvg-name="17:00 Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Cytavision Sports 5 Cyprus
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-915.php
-
-#EXTINF:-1 tvg-id="Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds - Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds" tvg-name="17:00 Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 4 NL
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-396.php
-
-#EXTINF:-1 tvg-id="Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds - Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds" tvg-name="17:00 Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS Australia 1
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-491.php
-
-#EXTINF:-1 tvg-id="Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds - Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds" tvg-name="17:00 Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN SPORTS Australia 2
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-492.php
-
-#EXTINF:-1 tvg-id="Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds - Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds" tvg-name="17:00 Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Max Sport 1 Bulgaria
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-472.php
-
-#EXTINF:-1 tvg-id="Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds - Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds" tvg-name="17:00 Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Max Sport 3 Bulgaria
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-474.php
-
-#EXTINF:-1 tvg-id="Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds - Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds" tvg-name="17:00 Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 1 Malaysia
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-712.php
-
-#EXTINF:-1 tvg-id="Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds - Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds" tvg-name="17:00 Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 2 Malaysia
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-713.php
-
-#EXTINF:-1 tvg-id="Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds - Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds" tvg-name="17:00 Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 2 Croatia
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-102.php
-
-#EXTINF:-1 tvg-id="Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds - Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds" tvg-name="17:00 Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 1 Croatia
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-101.php
-
-#EXTINF:-1 tvg-id="Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds - Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds" tvg-name="17:00 Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub HD Croatia
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-453.php
-
-#EXTINF:-1 tvg-id="Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds - Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds" tvg-name="17:00 Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Arena Tenis
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-612.php
-
-#EXTINF:-1 tvg-id="US Open Qualifying Round - US Open Qualifying Round" tvg-name="17:00 US Open Qualifying Round - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", ESPN2 USA
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-45.php
-
-#EXTINF:-1 tvg-id="US Open Qualifying Round - US Open Qualifying Round" tvg-name="17:00 US Open Qualifying Round - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports+
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-36.php
-
-#EXTINF:-1 tvg-id="US Open Qualifying Round - US Open Qualifying Round" tvg-name="17:00 US Open Qualifying Round - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports Mix UK
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-449.php
-
-#EXTINF:-1 tvg-id="US Open Qualifying Round - US Open Qualifying Round" tvg-name="17:00 US Open Qualifying Round - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", SporTV3 Brasil
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-80.php
-
-#EXTINF:-1 tvg-id="US Open Qualifying Round - US Open Qualifying Round" tvg-name="17:00 US Open Qualifying Round - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Movistar Deportes Spain
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-436.php
-
-#EXTINF:-1 tvg-id="US Open Qualifying Round - US Open Qualifying Round" tvg-name="17:00 US Open Qualifying Round - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Movistar Deportes 2 Spain
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-438.php
-
-#EXTINF:-1 tvg-id="All Elite Wrestling - Dynamite" tvg-name="02:00 All Elite Wrestling: Dynamite - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wwe", TBS USA
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-336.php
-
-#EXTINF:-1 tvg-id="All Elite Wrestling - Dynamite" tvg-name="02:00 All Elite Wrestling: Dynamite - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wwe", TSN2
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-112.php
-
-#EXTINF:-1 tvg-id="All Elite Wrestling - Dynamite" tvg-name="02:00 All Elite Wrestling: Dynamite - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wwe", Fox Sports Premium MX
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-830.php
-
-#EXTINF:-1 tvg-id="IAAF Diamond League Athletissima - Pontaise Olympic Stadium - IAAF Diamond League Athletissima - Pontaise Olympic Stadium" tvg-name="20:00 IAAF Diamond League Athletissima - Pontaise Olympic Stadium - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atletica", BBC Two UK
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-357.php
-
-#EXTINF:-1 tvg-id="IAAF Diamond League Athletissima - Pontaise Olympic Stadium - IAAF Diamond League Athletissima - Pontaise Olympic Stadium" tvg-name="20:00 IAAF Diamond League Athletissima - Pontaise Olympic Stadium - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atletica", #Vamos Spain
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-521.php
-
-#EXTINF:-1 tvg-id="IAAF Diamond League Athletissima - Pontaise Olympic Stadium - IAAF Diamond League Athletissima - Pontaise Olympic Stadium" tvg-name="20:00 IAAF Diamond League Athletissima - Pontaise Olympic Stadium - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atletica", svt1 Sweden
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-28.php
-
-#EXTINF:-1 tvg-id="IAAF Diamond League Athletissima - Pontaise Olympic Stadium - IAAF Diamond League Athletissima - Pontaise Olympic Stadium" tvg-name="20:00 IAAF Diamond League Athletissima - Pontaise Olympic Stadium - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atletica", Sport TV2 Portugal
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-74.php
-
-#EXTINF:-1 tvg-id="IAAF Diamond League Athletissima - Pontaise Olympic Stadium - IAAF Diamond League Athletissima - Pontaise Olympic Stadium" tvg-name="20:00 IAAF Diamond League Athletissima - Pontaise Olympic Stadium - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atletica", Polsat Sport 1 Poland
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-47.php
-
-#EXTINF:-1 tvg-id="IAAF Diamond League Athletissima - Pontaise Olympic Stadium - IAAF Diamond League Athletissima - Pontaise Olympic Stadium" tvg-name="20:00 IAAF Diamond League Athletissima - Pontaise Olympic Stadium - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atletica", Ziggo Sport 5 NL
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-383.php
-
-#EXTINF:-1 tvg-id="IAAF Diamond League Athletissima - Pontaise Olympic Stadium - IAAF Diamond League Athletissima - Pontaise Olympic Stadium" tvg-name="20:00 IAAF Diamond League Athletissima - Pontaise Olympic Stadium - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atletica", Arena Sport 2 Croatia
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-433.php
-
-#EXTINF:-1 tvg-id="IAAF Diamond League Athletissima - Pontaise Olympic Stadium - IAAF Diamond League Athletissima - Pontaise Olympic Stadium" tvg-name="20:00 IAAF Diamond League Athletissima - Pontaise Olympic Stadium - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atletica", Arena Sport 2 Serbia
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-430.php
-
-#EXTINF:-1 tvg-id="IAAF Diamond League Athletissima - Pontaise Olympic Stadium - IAAF Diamond League Athletissima - Pontaise Olympic Stadium" tvg-name="20:00 IAAF Diamond League Athletissima - Pontaise Olympic Stadium - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atletica", Sport 1 Israel
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-140.php
-
-#EXTINF:-1 tvg-id="Basketball Afrobasket (M) - 1/4 Final 1 - Basketball Afrobasket (M) - 1/4 Final 1" tvg-name="17:00 Basketball Afrobasket (M) - 1/4 Final 1 - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport Klub 1 Croatia
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-101.php
-
-#EXTINF:-1 tvg-id="Europe - World Cup - Qualification : Hungary vs FYR Macedonia" tvg-name="18:55 Europe: World Cup - Qualification : Hungary vs FYR Macedonia - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", M4 Sport Hungary
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-265.php
-
-#EXTINF:-1 tvg-id="Friendly International - Sweden vs Estonia" tvg-name="19:00 Friendly International : Sweden vs Estonia - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", svt2 Sweden
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-17.php
-
-#EXTINF:-1 tvg-id="Acropolis Cup - Greece vs Latvia" tvg-name="19:00 Acropolis Cup : Greece vs Latvia - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport Klub 3 Croatia
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-103.php
-
-#EXTINF:-1 tvg-id="Basketball Afrobasket (M) - 1/4 Final 2 - Basketball Afrobasket (M) - 1/4 Final 2" tvg-name="20:00 Basketball Afrobasket (M) - 1/4 Final 2 - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport Klub 1 Croatia
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-101.php
-
-#EXTINF:-1 tvg-id="WNBA - Los Angeles Sparks W vs Dallas Wings W" tvg-name="04:00 WNBA : Los Angeles Sparks W vs Dallas Wings W - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Spectrum SportsNet USA
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-982.php
-
-#EXTINF:-1 tvg-id="World Junior Swimming Championships - Finals" tvg-name="17:00 World Junior Swimming Championships: Finals - 20/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Water Sports", Sport 5 PLUS Israel
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-145.php
-
 #EXTINF:-1 tvg-id="Portugal - Liga Revelação - Marítimo U23 vs Sporting Braga U23" tvg-name="12:00 Portugal - Liga Revelação : Marítimo U23 vs Sporting Braga U23 - 21/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Canal 11 Portugal
 https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-540.php
 
