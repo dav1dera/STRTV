@@ -172,6 +172,7 @@ jobs:
           # Ignore Python bytecode files to avoid binary conflicts
           echo "__pycache__/" >> .gitignore
           echo "*.pyc" >> .gitignore
+          echo "*.env" >> .gitignore
           
           # Stage all changes
           git add .
