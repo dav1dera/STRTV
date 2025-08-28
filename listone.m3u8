@@ -72,6 +72,9 @@ https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=
 #EXTINF:-1 tvg-id="dazn1.it" tvg-name="Dazn 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/774px-DAZN_1_Logo.svg.png" group-title="Sport",DAZN 1 (V)
 https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://vavoo.to/vavoo-iptv/play/1376440573d46b3d682e20&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="dazn2.it" tvg-name="Dazn 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/882px-DAZN_2.svg.png" group-title="Sport",DAZN 2 (V)
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://vavoo.to/vavoo-iptv/play/3635062218e0132c616db&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="deejaytv.it" tvg-name="Deejay Tv" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Altro",DEEJAY TV (V)
 https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://vavoo.to/vavoo-iptv/play/963607327f90ada131395&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -221,9 +224,6 @@ https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=
 
 #EXTINF:-1 tvg-id="nickjr.it" tvg-name="Nick Jr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nick-jr-it.png" group-title="Bambini",NICK JR (V)
 https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://vavoo.to/vavoo-iptv/play/38095847274e645e8a065&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="nickelodeon.it" tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nickelodeon-it.png" group-title="Bambini",NICKELODEON (V)
-https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://vavoo.to/vavoo-iptv/play/30393892159798f5cebb7c&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="premiumcrime.it" tvg-name="Premium Crime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/premium-crime-it.png" group-title="Mediaset",PREMIUM CRIME (V)
 https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://vavoo.to/vavoo-iptv/play/444768053e397c96fc6df&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -447,6 +447,9 @@ https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=
 #EXTINF:-1 tvg-id="skyprimafila10.it" tvg-name="Sky Primafila 10 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 10 (V) (2)
 https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://vavoo.to/vavoo-iptv/play/2268489342059d1f4882c8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="skyprimafila12.it" tvg-name="Sky Primafila 12" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 12 (V)
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://vavoo.to/vavoo-iptv/play/2221901869db7a5b77a267&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="skyprimafila14.it" tvg-name="Sky Primafila 14" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 14 (V)
 https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://vavoo.to/vavoo-iptv/play/18766170987dd5e4939c9&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -505,6 +508,9 @@ https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=
 https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://vavoo.to/vavoo-iptv/play/14407790614bc8041c450d&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyprimafila9.it" tvg-name="Sky Primafila 9" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 9 (V)
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://vavoo.to/vavoo-iptv/play/113411388318bf0ef81722&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skyprimafila9.it" tvg-name="Sky Primafila 9 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 9 (V) (2)
 https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://vavoo.to/vavoo-iptv/play/17532606771304e2497369&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyserie.it" tvg-name="Sky Serie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-serie-it.png" group-title="Film;Sky",SKY SERIE (V)
@@ -580,6 +586,9 @@ https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=
 https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://vavoo.to/vavoo-iptv/play/55828211836e421b20575&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skytg24.it" tvg-name="Sky Tg 24" tvg-logo="https://play-lh.googleusercontent.com/0RJjBW8_r64dWLAbG7kUVrkESbBr9Ukx30pDI83e5_o1obv2MTC7KSpBAIhhXvJAkXE" group-title="Notizie;Sky",SKY TG 24 (V)
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://vavoo.to/vavoo-iptv/play/33760313550167605877f1&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skytg24.it" tvg-name="Sky Tg 24 (2)" tvg-logo="" group-title="Notizie;Sky",SKY TG 24 (V) (2)
 https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://vavoo.to/vavoo-iptv/play/3180571288b987548e3fe&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyuno.it" tvg-name="Sky Uno" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Sky",SKY UNO (V)
@@ -1550,6 +1559,12 @@ https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=
 
 #EXTINF:-1 tvg-id="2025 NASCAR Modifieds at Riverhead Raceway - 2025 NASCAR Modifieds at Riverhead Raceway" tvg-name="00:30 2025 NASCAR Modifieds at Riverhead Raceway - 27/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
 https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-5012.php
+
+#EXTINF:-1 tvg-id="Action Track USA - Action Track USA" tvg-name="01:00 Action Track USA - 27/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-5014.php
+
+#EXTINF:-1 tvg-id="Airborne Park Speedway - Airborne Park Speedway" tvg-name="01:00 Airborne Park Speedway - 27/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-5015.php
 
 #EXTINF:-1 tvg-id="XR Stock Cars Rampage - XR Stock Cars Rampage" tvg-name="02:00 XR Stock Cars Rampage - 27/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
 https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-69.php
@@ -3119,6 +3134,291 @@ https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=
 
 #EXTINF:-1 tvg-id="CONCACAF Central American Cup - Herediano vs Municipal" tvg-name="04:00 CONCACAF Central American Cup : Herediano vs Municipal - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Fox Soccer Plus
 https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-756.php
+
+#EXTINF:-1 tvg-id="ATP - US OPEN - Boyer T. vs Rublev A." tvg-name="17:00 ATP - US OPEN : Boyer T. vs Rublev A. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1503.php
+
+#EXTINF:-1 tvg-id="ATP - US OPEN - Boyer T. vs Rublev A." tvg-name="17:00 ATP - US OPEN : Boyer T. vs Rublev A. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1523.php
+
+#EXTINF:-1 tvg-id="ATP - US OPEN - Musetti L. vs Goffin D." tvg-name="17:00 ATP - US OPEN : Musetti L. vs Goffin D. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1502.php
+
+#EXTINF:-1 tvg-id="ATP - US OPEN - Musetti L. vs Goffin D." tvg-name="17:00 ATP - US OPEN : Musetti L. vs Goffin D. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1522.php
+
+#EXTINF:-1 tvg-id="ATP - US OPEN - Walton A. vs Wong C." tvg-name="17:30 ATP - US OPEN : Walton A. vs Wong C. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1510.php
+
+#EXTINF:-1 tvg-id="ATP - US OPEN - Walton A. vs Wong C." tvg-name="17:30 ATP - US OPEN : Walton A. vs Wong C. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1530.php
+
+#EXTINF:-1 tvg-id="ATP - US OPEN - Brooksby J. vs Cobolli F." tvg-name="18:30 ATP - US OPEN : Brooksby J. vs Cobolli F. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1517.php
+
+#EXTINF:-1 tvg-id="ATP - US OPEN - Brooksby J. vs Cobolli F." tvg-name="18:30 ATP - US OPEN : Brooksby J. vs Cobolli F. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1537.php
+
+#EXTINF:-1 tvg-id="ATP - US OPEN - Khachanov K. vs Majchrzak K." tvg-name="18:30 ATP - US OPEN : Khachanov K. vs Majchrzak K. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1511.php
+
+#EXTINF:-1 tvg-id="ATP - US OPEN - Khachanov K. vs Majchrzak K." tvg-name="18:30 ATP - US OPEN : Khachanov K. vs Majchrzak K. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1531.php
+
+#EXTINF:-1 tvg-id="ATP - US OPEN - Riedi L. vs Cerundolo F." tvg-name="19:00 ATP - US OPEN : Riedi L. vs Cerundolo F. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1505.php
+
+#EXTINF:-1 tvg-id="ATP - US OPEN - Riedi L. vs Cerundolo F." tvg-name="19:00 ATP - US OPEN : Riedi L. vs Cerundolo F. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1525.php
+
+#EXTINF:-1 tvg-id="ATP - US OPEN - Royer V. vs Shapovalov D." tvg-name="18:30 ATP - US OPEN : Royer V. vs Shapovalov D. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1507.php
+
+#EXTINF:-1 tvg-id="ATP - US OPEN - Royer V. vs Shapovalov D." tvg-name="18:30 ATP - US OPEN : Royer V. vs Shapovalov D. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1527.php
+
+#EXTINF:-1 tvg-id="ATP - US OPEN - Sinner J. vs Popyrin A." tvg-name="19:00 ATP - US OPEN : Sinner J. vs Popyrin A. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1501.php
+
+#EXTINF:-1 tvg-id="ATP - US OPEN - Sinner J. vs Popyrin A." tvg-name="19:00 ATP - US OPEN : Sinner J. vs Popyrin A. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1521.php
+
+#EXTINF:-1 tvg-id="ATP - US OPEN - Diallo G. vs Munar J." tvg-name="20:00 ATP - US OPEN : Diallo G. vs Munar J. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1507.php
+
+#EXTINF:-1 tvg-id="ATP - US OPEN - Diallo G. vs Munar J." tvg-name="20:00 ATP - US OPEN : Diallo G. vs Munar J. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1527.php
+
+#EXTINF:-1 tvg-id="ATP - US OPEN - Bublik A. vs Schoolkate T." tvg-name="20:30 ATP - US OPEN : Bublik A. vs Schoolkate T. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1511.php
+
+#EXTINF:-1 tvg-id="ATP - US OPEN - Bublik A. vs Schoolkate T." tvg-name="20:30 ATP - US OPEN : Bublik A. vs Schoolkate T. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1531.php
+
+#EXTINF:-1 tvg-id="ATP - US OPEN - Mochizuki S. vs De Minaur A." tvg-name="22:00 ATP - US OPEN : Mochizuki S. vs De Minaur A. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1517.php
+
+#EXTINF:-1 tvg-id="ATP - US OPEN - Mochizuki S. vs De Minaur A." tvg-name="22:00 ATP - US OPEN : Mochizuki S. vs De Minaur A. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1537.php
+
+#EXTINF:-1 tvg-id="ATP - US OPEN - Safiullin R. vs Auger-Aliassime F." tvg-name="22:00 ATP - US OPEN : Safiullin R. vs Auger-Aliassime F. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1505.php
+
+#EXTINF:-1 tvg-id="ATP - US OPEN - Safiullin R. vs Auger-Aliassime F." tvg-name="22:00 ATP - US OPEN : Safiullin R. vs Auger-Aliassime F. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1525.php
+
+#EXTINF:-1 tvg-id="ATP - US OPEN - Tsitsipas S. vs Altmaier D." tvg-name="22:30 ATP - US OPEN : Tsitsipas S. vs Altmaier D. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1503.php
+
+#EXTINF:-1 tvg-id="ATP - US OPEN - Tsitsipas S. vs Altmaier D." tvg-name="22:30 ATP - US OPEN : Tsitsipas S. vs Altmaier D. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1523.php
+
+#EXTINF:-1 tvg-id="ATP - US OPEN - Zverev A. vs Fearnley J." tvg-name="01:00 ATP - US OPEN : Zverev A. vs Fearnley J. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1502.php
+
+#EXTINF:-1 tvg-id="ATP - US OPEN - Zverev A. vs Fearnley J." tvg-name="01:00 ATP - US OPEN : Zverev A. vs Fearnley J. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1522.php
+
+#EXTINF:-1 tvg-id="ATP - US OPEN - Borges N. vs Paul T." tvg-name="02:30 ATP - US OPEN : Borges N. vs Paul T. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1501.php
+
+#EXTINF:-1 tvg-id="ATP - US OPEN - Borges N. vs Paul T." tvg-name="02:30 ATP - US OPEN : Borges N. vs Paul T. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1521.php
+
+#EXTINF:-1 tvg-id="WTA - US OPEN - Alexandrova E. vs Wang Xin." tvg-name="17:00 WTA - US OPEN : Alexandrova E. vs Wang Xin. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1511.php
+
+#EXTINF:-1 tvg-id="WTA - US OPEN - Alexandrova E. vs Wang Xin." tvg-name="17:00 WTA - US OPEN : Alexandrova E. vs Wang Xin. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1531.php
+
+#EXTINF:-1 tvg-id="WTA - US OPEN - Haddad Maia B. vs Golubic V." tvg-name="17:00 WTA - US OPEN : Haddad Maia B. vs Golubic V. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1517.php
+
+#EXTINF:-1 tvg-id="WTA - US OPEN - Haddad Maia B. vs Golubic V." tvg-name="17:00 WTA - US OPEN : Haddad Maia B. vs Golubic V. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1537.php
+
+#EXTINF:-1 tvg-id="WTA - US OPEN - Kalinskaya A. vs Putintseva Y." tvg-name="17:00 WTA - US OPEN : Kalinskaya A. vs Putintseva Y. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1512.php
+
+#EXTINF:-1 tvg-id="WTA - US OPEN - Kalinskaya A. vs Putintseva Y." tvg-name="17:00 WTA - US OPEN : Kalinskaya A. vs Putintseva Y. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1532.php
+
+#EXTINF:-1 tvg-id="WTA - US OPEN - Noskova L. vs Lys E." tvg-name="17:00 WTA - US OPEN : Noskova L. vs Lys E. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1505.php
+
+#EXTINF:-1 tvg-id="WTA - US OPEN - Noskova L. vs Lys E." tvg-name="17:00 WTA - US OPEN : Noskova L. vs Lys E. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1525.php
+
+#EXTINF:-1 tvg-id="WTA - US OPEN - Sakkari M. vs Bondar A." tvg-name="17:00 WTA - US OPEN : Sakkari M. vs Bondar A. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1507.php
+
+#EXTINF:-1 tvg-id="WTA - US OPEN - Sakkari M. vs Bondar A." tvg-name="17:00 WTA - US OPEN : Sakkari M. vs Bondar A. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1527.php
+
+#EXTINF:-1 tvg-id="WTA - US OPEN - Lamens S. vs Swiatek I." tvg-name="17:30 WTA - US OPEN : Lamens S. vs Swiatek I. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1501.php
+
+#EXTINF:-1 tvg-id="WTA - US OPEN - Lamens S. vs Swiatek I." tvg-name="17:30 WTA - US OPEN : Lamens S. vs Swiatek I. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1521.php
+
+#EXTINF:-1 tvg-id="WTA - US OPEN - Lamens S. vs Swiatek I." tvg-name="17:30 WTA - US OPEN : Lamens S. vs Swiatek I. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1519.php
+
+#EXTINF:-1 tvg-id="WTA - US OPEN - Frech M. vs Stearns P." tvg-name="18:30 WTA - US OPEN : Frech M. vs Stearns P. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1506.php
+
+#EXTINF:-1 tvg-id="WTA - US OPEN - Frech M. vs Stearns P." tvg-name="18:30 WTA - US OPEN : Frech M. vs Stearns P. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1526.php
+
+#EXTINF:-1 tvg-id="WTA - US OPEN - Sonmez Z. vs Kostyuk M." tvg-name="18:30 WTA - US OPEN : Sonmez Z. vs Kostyuk M. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1512.php
+
+#EXTINF:-1 tvg-id="WTA - US OPEN - Sonmez Z. vs Kostyuk M." tvg-name="18:30 WTA - US OPEN : Sonmez Z. vs Kostyuk M. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1532.php
+
+#EXTINF:-1 tvg-id="WTA - US OPEN - Baptiste H. vs Osaka N." tvg-name="19:00 WTA - US OPEN : Baptiste H. vs Osaka N. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1501.php
+
+#EXTINF:-1 tvg-id="WTA - US OPEN - Baptiste H. vs Osaka N." tvg-name="19:00 WTA - US OPEN : Baptiste H. vs Osaka N. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1521.php
+
+#EXTINF:-1 tvg-id="WTA - US OPEN - Cirstea S. vs Muchova K." tvg-name="19:00 WTA - US OPEN : Cirstea S. vs Muchova K. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1503.php
+
+#EXTINF:-1 tvg-id="WTA - US OPEN - Cirstea S. vs Muchova K." tvg-name="19:00 WTA - US OPEN : Cirstea S. vs Muchova K. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1523.php
+
+#EXTINF:-1 tvg-id="WTA - US OPEN - Zakharova A. vs Siegemund L." tvg-name="19:00 WTA - US OPEN : Zakharova A. vs Siegemund L. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1510.php
+
+#EXTINF:-1 tvg-id="WTA - US OPEN - Zakharova A. vs Siegemund L." tvg-name="19:00 WTA - US OPEN : Zakharova A. vs Siegemund L. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1530.php
+
+#EXTINF:-1 tvg-id="WTA - US OPEN - Cristian J. vs Krueger A." tvg-name="20:30 WTA - US OPEN : Cristian J. vs Krueger A. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1511.php
+
+#EXTINF:-1 tvg-id="WTA - US OPEN - Cristian J. vs Krueger A." tvg-name="20:30 WTA - US OPEN : Cristian J. vs Krueger A. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1531.php
+
+#EXTINF:-1 tvg-id="WTA - US OPEN - Kasatkina D. vs Rakhimova K." tvg-name="20:30 WTA - US OPEN : Kasatkina D. vs Rakhimova K. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1517.php
+
+#EXTINF:-1 tvg-id="WTA - US OPEN - Kasatkina D. vs Rakhimova K." tvg-name="20:30 WTA - US OPEN : Kasatkina D. vs Rakhimova K. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1537.php
+
+#EXTINF:-1 tvg-id="WTA - US OPEN - Zarazua R. vs Parry D." tvg-name="20:30 WTA - US OPEN : Zarazua R. vs Parry D. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1505.php
+
+#EXTINF:-1 tvg-id="WTA - US OPEN - Zarazua R. vs Parry D." tvg-name="20:30 WTA - US OPEN : Zarazua R. vs Parry D. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1525.php
+
+#EXTINF:-1 tvg-id="WTA - US OPEN - Vekic D. vs Gauff C." tvg-name="01:00 WTA - US OPEN : Vekic D. vs Gauff C. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1501.php
+
+#EXTINF:-1 tvg-id="WTA - US OPEN - Vekic D. vs Gauff C." tvg-name="01:00 WTA - US OPEN : Vekic D. vs Gauff C. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1521.php
+
+#EXTINF:-1 tvg-id="WTA - US OPEN - Anisimova A. vs Joint M." tvg-name="03:00 WTA - US OPEN : Anisimova A. vs Joint M. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1502.php
+
+#EXTINF:-1 tvg-id="WTA - US OPEN - Anisimova A. vs Joint M." tvg-name="03:00 WTA - US OPEN : Anisimova A. vs Joint M. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1522.php
+
+#EXTINF:-1 tvg-id="WTA DOUBLES - US OPEN - Brantmeier R./Hamilton A. vs Frodin T./Penickova K." tvg-name="17:00 WTA DOUBLES - US OPEN : Brantmeier R./Hamilton A. vs Frodin T./Penickova K. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta Doubles - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1506.php
+
+#EXTINF:-1 tvg-id="WTA DOUBLES - US OPEN - Brantmeier R./Hamilton A. vs Frodin T./Penickova K." tvg-name="17:00 WTA DOUBLES - US OPEN : Brantmeier R./Hamilton A. vs Frodin T./Penickova K. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta Doubles - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1526.php
+
+#EXTINF:-1 tvg-id="WTA DOUBLES - US OPEN - Eikeri U./Hozumi E. vs Kalashnikova O./Starodubtseva Y." tvg-name="17:00 WTA DOUBLES - US OPEN : Eikeri U./Hozumi E. vs Kalashnikova O./Starodubtseva Y. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta Doubles - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1515.php
+
+#EXTINF:-1 tvg-id="WTA DOUBLES - US OPEN - Eikeri U./Hozumi E. vs Kalashnikova O./Starodubtseva Y." tvg-name="17:00 WTA DOUBLES - US OPEN : Eikeri U./Hozumi E. vs Kalashnikova O./Starodubtseva Y. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta Doubles - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1535.php
+
+#EXTINF:-1 tvg-id="WTA DOUBLES - US OPEN - Lumsden M./Ninomiya M. vs Gleason Q./Martins I." tvg-name="17:00 WTA DOUBLES - US OPEN : Lumsden M./Ninomiya M. vs Gleason Q./Martins I. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta Doubles - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1513.php
+
+#EXTINF:-1 tvg-id="WTA DOUBLES - US OPEN - Lumsden M./Ninomiya M. vs Gleason Q./Martins I." tvg-name="17:00 WTA DOUBLES - US OPEN : Lumsden M./Ninomiya M. vs Gleason Q./Martins I. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta Doubles - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1533.php
+
+#EXTINF:-1 tvg-id="WTA DOUBLES - US OPEN - Guo H./Panova A. vs Detiuc A./Pridankina E." tvg-name="18:30 WTA DOUBLES - US OPEN : Guo H./Panova A. vs Detiuc A./Pridankina E. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta Doubles - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1515.php
+
+#EXTINF:-1 tvg-id="WTA DOUBLES - US OPEN - Guo H./Panova A. vs Detiuc A./Pridankina E." tvg-name="18:30 WTA DOUBLES - US OPEN : Guo H./Panova A. vs Detiuc A./Pridankina E. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta Doubles - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1535.php
+
+#EXTINF:-1 tvg-id="WTA DOUBLES - US OPEN - Parks A./Yastremska D. vs Birrell K./Gadecki O." tvg-name="18:30 WTA DOUBLES - US OPEN : Parks A./Yastremska D. vs Birrell K./Gadecki O. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta Doubles - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1513.php
+
+#EXTINF:-1 tvg-id="WTA DOUBLES - US OPEN - Parks A./Yastremska D. vs Birrell K./Gadecki O." tvg-name="18:30 WTA DOUBLES - US OPEN : Parks A./Yastremska D. vs Birrell K./Gadecki O. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta Doubles - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1533.php
+
+#EXTINF:-1 tvg-id="WTA DOUBLES - US OPEN - Dart H./Putintseva Y. vs Andreeva M./Shnaider D." tvg-name="20:00 WTA DOUBLES - US OPEN : Dart H./Putintseva Y. vs Andreeva M./Shnaider D. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta Doubles - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1512.php
+
+#EXTINF:-1 tvg-id="WTA DOUBLES - US OPEN - Dart H./Putintseva Y. vs Andreeva M./Shnaider D." tvg-name="20:00 WTA DOUBLES - US OPEN : Dart H./Putintseva Y. vs Andreeva M./Shnaider D. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta Doubles - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1532.php
+
+#EXTINF:-1 tvg-id="WTA DOUBLES - US OPEN - Krejcikova B./Ostapenko J. vs Babos T./Stefani L." tvg-name="20:00 WTA DOUBLES - US OPEN : Krejcikova B./Ostapenko J. vs Babos T./Stefani L. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta Doubles - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1515.php
+
+#EXTINF:-1 tvg-id="WTA DOUBLES - US OPEN - Krejcikova B./Ostapenko J. vs Babos T./Stefani L." tvg-name="20:00 WTA DOUBLES - US OPEN : Krejcikova B./Ostapenko J. vs Babos T./Stefani L. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta Doubles - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1535.php
+
+#EXTINF:-1 tvg-id="WTA DOUBLES - US OPEN - Kudermetova V./Mertens E. vs Lamens S./Lys E." tvg-name="20:00 WTA DOUBLES - US OPEN : Kudermetova V./Mertens E. vs Lamens S./Lys E. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta Doubles - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1506.php
+
+#EXTINF:-1 tvg-id="WTA DOUBLES - US OPEN - Kudermetova V./Mertens E. vs Lamens S./Lys E." tvg-name="20:00 WTA DOUBLES - US OPEN : Kudermetova V./Mertens E. vs Lamens S./Lys E. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta Doubles - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1526.php
+
+#EXTINF:-1 tvg-id="WTA DOUBLES - US OPEN - Siniakova K./Townsend T. vs Kichenok N./Sutjiadi A." tvg-name="20:00 WTA DOUBLES - US OPEN : Siniakova K./Townsend T. vs Kichenok N./Sutjiadi A. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta Doubles - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1513.php
+
+#EXTINF:-1 tvg-id="WTA DOUBLES - US OPEN - Siniakova K./Townsend T. vs Kichenok N./Sutjiadi A." tvg-name="20:00 WTA DOUBLES - US OPEN : Siniakova K./Townsend T. vs Kichenok N./Sutjiadi A. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta Doubles - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1533.php
+
+#EXTINF:-1 tvg-id="WTA DOUBLES - US OPEN - Skoch M./Vondrousova M. vs Dabrowski G./Routliffe E." tvg-name="20:30 WTA DOUBLES - US OPEN : Skoch M./Vondrousova M. vs Dabrowski G./Routliffe E. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta Doubles - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1510.php
+
+#EXTINF:-1 tvg-id="WTA DOUBLES - US OPEN - Skoch M./Vondrousova M. vs Dabrowski G./Routliffe E." tvg-name="20:30 WTA DOUBLES - US OPEN : Skoch M./Vondrousova M. vs Dabrowski G./Routliffe E. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta Doubles - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1530.php
+
+#EXTINF:-1 tvg-id="WTA DOUBLES - US OPEN - Fernandez L./Williams V. vs Kichenok L./Perez E." tvg-name="21:00 WTA DOUBLES - US OPEN : Fernandez L./Williams V. vs Kichenok L./Perez E. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta Doubles - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1513.php
+
+#EXTINF:-1 tvg-id="WTA DOUBLES - US OPEN - Fernandez L./Williams V. vs Kichenok L./Perez E." tvg-name="21:00 WTA DOUBLES - US OPEN : Fernandez L./Williams V. vs Kichenok L./Perez E. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta Doubles - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1533.php
+
+#EXTINF:-1 tvg-id="WTA DOUBLES - US OPEN - Blinkova A./Frech M. vs Kudermetova P./Potapova A." tvg-name="21:30 WTA DOUBLES - US OPEN : Blinkova A./Frech M. vs Kudermetova P./Potapova A. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta Doubles - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1506.php
+
+#EXTINF:-1 tvg-id="WTA DOUBLES - US OPEN - Blinkova A./Frech M. vs Kudermetova P./Potapova A." tvg-name="21:30 WTA DOUBLES - US OPEN : Blinkova A./Frech M. vs Kudermetova P./Potapova A. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta Doubles - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1526.php
+
+#EXTINF:-1 tvg-id="WTA DOUBLES - US OPEN - Boisson L./Maria T. vs Errani S./Paolini J." tvg-name="21:30 WTA DOUBLES - US OPEN : Boisson L./Maria T. vs Errani S./Paolini J. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta Doubles - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1513.php
+
+#EXTINF:-1 tvg-id="WTA DOUBLES - US OPEN - Boisson L./Maria T. vs Errani S./Paolini J." tvg-name="21:30 WTA DOUBLES - US OPEN : Boisson L./Maria T. vs Errani S./Paolini J. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta Doubles - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1533.php
+
+#EXTINF:-1 tvg-id="WTA DOUBLES - US OPEN - Golubic V./Li A. vs Bronzetti L./Piter K." tvg-name="23:30 WTA DOUBLES - US OPEN : Golubic V./Li A. vs Bronzetti L./Piter K. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta Doubles - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1515.php
+
+#EXTINF:-1 tvg-id="WTA DOUBLES - US OPEN - Golubic V./Li A. vs Bronzetti L./Piter K." tvg-name="23:30 WTA DOUBLES - US OPEN : Golubic V./Li A. vs Bronzetti L./Piter K. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta Doubles - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1535.php
+
+#EXTINF:-1 tvg-id="WTA DOUBLES - US OPEN - Kempen M./Sherif M. vs Jovic I./Ngounoue C." tvg-name="22:00 WTA DOUBLES - US OPEN : Kempen M./Sherif M. vs Jovic I./Ngounoue C. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta Doubles - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1510.php
+
+#EXTINF:-1 tvg-id="WTA DOUBLES - US OPEN - Kempen M./Sherif M. vs Jovic I./Ngounoue C." tvg-name="22:00 WTA DOUBLES - US OPEN : Kempen M./Sherif M. vs Jovic I./Ngounoue C. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta Doubles - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1530.php
+
+#EXTINF:-1 tvg-id="WTA DOUBLES - US OPEN - Xu Y./Yang Z. vs Pareja J./Urhobo A." tvg-name="22:30 WTA DOUBLES - US OPEN : Xu Y./Yang Z. vs Pareja J./Urhobo A. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta Doubles - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1507.php
+
+#EXTINF:-1 tvg-id="WTA DOUBLES - US OPEN - Xu Y./Yang Z. vs Pareja J./Urhobo A." tvg-name="22:30 WTA DOUBLES - US OPEN : Xu Y./Yang Z. vs Pareja J./Urhobo A. - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta Doubles - Us Open", Tennis Stream
+https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-1527.php
 
 #EXTINF:-1 tvg-id="US Open Round 1 | Day 5 - US Open Round 1 | Day 5" tvg-name="16:00 US Open Round 1 | Day 5 - 28/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel
 https://mediaflow_proxy.self-stremiopi.org/proxy/hls/manifest.m3u8?api_password=5810&d=https://thedaddy.click/stream/stream-40.php
